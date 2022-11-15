@@ -4,7 +4,7 @@
 
 hostname=`hostname`
 
-git pull https://github.com/Gentleelephant/v2config.git
+git pull
 
 # restart v2ray
 service v2ray restart
